@@ -265,7 +265,7 @@ ol {
 }
 
 .banner_text h1 {
-    font-size: 305px;
+    font-size: 135px;
     font-weight: 400;
     font-family: 'Anton', sans-serif;
     color: #fcb100;
@@ -273,7 +273,7 @@ ol {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     filter: drop-shadow(0 0 35px #4d0148);
-    margin-top: -35px;
+    margin-top: -15px;
 }
 
 .banner_text p {
@@ -282,7 +282,7 @@ ol {
     font-size: 16px;
     font-weight: 400;
     font-family: 'Nunito', sans-serif;
-    margin-top: -30px;
+    margin-top: -15px;
 }
 
 .banner_text a {
