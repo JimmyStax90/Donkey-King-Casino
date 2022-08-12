@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import { Link, NavLink,useLocation  } from 'react-router-dom';
+import React from 'react';
+import { Link  } from 'react-router-dom';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
 import PaymentMethod from 'components/PaymentMethod';
@@ -7,11 +7,11 @@ import FlowCards from 'components/FlowCards';
 
 
 const Contact = () => {
-    const location = useLocation(); // once ready it returns the 'window.location' object
-    const [url, setUrl] = useState(null);
-    useEffect(() => {
-        setUrl(location.pathname);
-    }, [location]);
+    // const location = useLocation(); // once ready it returns the 'window.location' object
+    // const [url, setUrl] = useState(null);
+    // useEffect(() => {
+    //     setUrl(location.pathname);
+    // }, [location]);
     return (
         <div>
             <Navigation />

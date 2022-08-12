@@ -11,7 +11,7 @@ const Navigation =() => {
     const [url, setUrl] = useState(null);
     useEffect(() => {
         setUrl(location.pathname);
-    }, [location]);
+    }, [location]); 
   return (
     <nav className="navbar navbar-expand-md menu_head">
         <div className="container p-md-0">

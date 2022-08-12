@@ -39,7 +39,7 @@ const Games = () => {
                                 <img src="images/Hold Em BnG.jpg" className="img-fluid w-100" alt="about_1"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Hold Em</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@ const Games = () => {
                                 <img src="images/BlackJack_BnG on B (1).png" className="img-fluid w-100" alt="about_2"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Blackjack</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -57,7 +57,7 @@ const Games = () => {
                                 <img src="images/BnG Slots.jpeg" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Slots</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -66,7 +66,7 @@ const Games = () => {
                                 <img src="images/RouletteBnG on B.png" className="img-fluid w-100" alt="03_Games4"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Roulette</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ const Games = () => {
                                 <img src="images/Dice - BnG on B.png" className="img-fluid w-100" alt="03_Games5"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Craps</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@ const Games = () => {
                                 <img src="images/Horse Race 1.png" className="img-fluid w-100" alt="03_Games6"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Horse Racing</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -93,7 +93,7 @@ const Games = () => {
                                 <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="03_Games7"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Keno</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@ const Games = () => {
                                 <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="03_Games8"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Fruit Slots</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -111,7 +111,7 @@ const Games = () => {
                                 <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="03_Games9"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Omaha</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -120,7 +120,7 @@ const Games = () => {
                                 <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Lucky Wheel</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>

@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import Countdown from 'react-countdown';
 import Navigation from './navbar/Navigation';
@@ -49,11 +49,11 @@ const Home = () => {
                         </div>
                         <div className="col-lg-5 col-xl-5 col-md-6 col-12 pr-md-0 offset-lg-1 offset-xl-1">
                             <div className="banner_text text-center text-md-left">
-                                <h4></h4>
+                                {/* <h4></h4>
                                 <h1></h1>
-                                <p></p>
+                                <p></p> */}
                                 <div className="text-center">
-                                    <Link to="#">Play Now </Link>
+                                    <Link to="#/">Play Now </Link>
                                 </div>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ const Home = () => {
                                 <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_1"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Slots</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@ const Home = () => {
                                 <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_2"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Hold 'EM</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -96,7 +96,7 @@ const Home = () => {
                                 <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Blackjack</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -105,7 +105,7 @@ const Home = () => {
                                 <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Horse Racing</h3>
-                                    <a href="javascript:void(0);">Play Now</a>
+                                    <a href="#/">Play Now</a>
                                 </div>
                             </div>
                         </div>
@@ -130,7 +130,7 @@ const Home = () => {
                                 <p className="d-none d-sm-block d-md-none">Click below to claim your free spin on Donkey King Slots.
                                     <span>Refer a friend to join Donkey King Casino and earn an additional free spin.</span></p>
                                 <div className="clm_btn">
-                                    <a href="javascript:void(0);">Claim Now</a>
+                                    <a href="#/">Claim Now</a>
                                 </div>
                             </div>
                         </div>
@@ -160,12 +160,12 @@ const Home = () => {
                                 <ul>
                                     <li>Unlimited Play</li>
                                     <li>No Chip Limit</li>
+                                    {/* <li></li>
                                     <li></li>
                                     <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li></li> */}
                                 </ul>
-                                <a href="">Select</a>
+                                <a href="#/">Select</a>
                             </div>
                         </div>
                         <div className="col-lg-4 col-sm-6 pri_page_in price_main">
@@ -178,13 +178,13 @@ const Home = () => {
                                 <p>$BNB/Per Month</p>
                                 <ul>
                                     <li>Coming in 2023</li>
+                                    {/* <li></li>
                                     <li></li>
                                     <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li></li> */}
                                     <li></li>
                                 </ul>
-                                <a href="">N/A</a>
+                                <a href="#/">N/A</a>
                             </div>
                         </div>
                         <div className="col-lg-4 col-sm-6 pri_page_in price_main">
@@ -197,13 +197,13 @@ const Home = () => {
                                 <p>$BNB/Per Month</p>
                                 <ul>
                                     <li>Coming in 2023</li>
+                                    {/* <li></li>
                                     <li></li>
                                     <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li></li> */}
                                     <li></li>
                                 </ul>
-                                <a href="javascript:void(0);">N/A</a>
+                                <a href="#/">N/A</a>
                             </div>
                         </div>
                         <div className="col-sm-6 d-none d-sm-block d-md-none price_main">
@@ -222,7 +222,7 @@ const Home = () => {
                                     <li>X</li>
                                     <li>X</li>
                                 </ul>
-                                <a href="javascript:void(0);">Choose Now</a>
+                                <a href="#/">Choose Now</a>
                             </div>
                         </div>
                     </div>

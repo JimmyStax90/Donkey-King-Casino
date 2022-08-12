@@ -14,7 +14,7 @@ const Payment = () => {
                             <input type="email" placeholder="Your e-mail here"/>
                             <button className="pay_butt" type="submit">
                                 <i className="fa fa-paper-plane"></i>
-                            </button>
+                            </button> 
                         </form>
                     </div>
                 </div>

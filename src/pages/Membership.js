@@ -1,16 +1,16 @@
-import { Link, NavLink,useLocation  } from 'react-router-dom';
-import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import React from 'react';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
 import PaymentMethod from 'components/PaymentMethod';
 import FlowCards from 'components/FlowCards';
 
 const Membership = () => {
-    const location = useLocation(); // once ready it returns the 'window.location' object
-    const [url, setUrl] = useState(null);
-    useEffect(() => {
-        setUrl(location.pathname);
-    }, [location]);
+    // const location = useLocation(); // once ready it returns the 'window.location' object
+    // const [url, setUrl] = useState(null);
+    // useEffect(() => {
+    //     setUrl(location.pathname);
+    // }, [location]);
     return (
         <div>
             <Navigation/>
@@ -28,7 +28,7 @@ const Membership = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> 
             {/* Membership banner part end */}
             {/* Membership part start */}
 
@@ -53,7 +53,7 @@ const Membership = () => {
                                     <li></li>
                                     <li></li>
                                 </ul>
-                                <a href="">Select</a>
+                                <a href="#/">Select</a>
                             </div>
                         </div>
                         <div className="col-lg-4 col-sm-6 pri_page_in price_main">
@@ -66,13 +66,13 @@ const Membership = () => {
                                 <p>$BNB/Per Month</p>
                                 <ul>
                                     <li>Coming in 2023</li>
+                                    {/* <li></li>
                                     <li></li>
                                     <li></li>
                                     <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li></li> */}
                                 </ul>
-                                <a href="">N/A</a>
+                                <a href="#/">N/A</a>
                             </div>
                         </div>
                         <div className="col-lg-4 col-sm-6 pri_page_in price_main">
@@ -85,13 +85,13 @@ const Membership = () => {
                                 <p>$BNB/Per Month</p>
                                 <ul>
                                     <li>Coming in 2023</li>
+                                    {/* <li></li>
                                     <li></li>
                                     <li></li>
                                     <li></li>
-                                    <li></li>
-                                    <li></li>
+                                    <li></li> */}
                                 </ul>
-                                <a href="">N/A</a>
+                                <a href="#/#/">N/A</a>
                             </div>
                         </div>
                     </div>

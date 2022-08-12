@@ -44,7 +44,7 @@ const Promotion = () => {
                             <div className="promo_banner_text">
                                 <h1>New Users</h1>
                                 <h2>Unlock Your<span>Free Spin</span></h2>
-                                <a href="javascript:void(0);">Claim Free Spin</a>
+                                <a href="#/">Claim Free Spin</a>
                             </div>
                         </div>
                     </div>

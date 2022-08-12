@@ -14,7 +14,7 @@ const FlowCards = () => {
   return (
    <div>
         <div className="row flow_sha text-center d-none d-md-block">
-                <div className="col-lg-12">
+                <div className="col-lg-12"> 
                     <div className="game_flow">
                         <div className="row m-0">
                             <div className="col-md-4 border_shadow">

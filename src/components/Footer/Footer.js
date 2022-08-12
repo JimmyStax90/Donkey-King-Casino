@@ -26,11 +26,11 @@ const Footer = () =>{
                         <div className="col-md-7">
                             <div className="foot_info_text">
                                 <ul>
-                                    <li><a href="javascript:void(0);">Live Score</a></li>
-                                    <li><a href="javascript:void(0);">How to Play</a></li>
-                                    <li><a href="javascript:void(0);">Tournaments</a></li>
-                                    <li><a href="javascript:void(0);">Registration Bonus</a></li>
-                                    <li><a href="javascript:void(0);">Contact</a></li>
+                                    <li><a href="#/">Live Score</a></li>
+                                    <li><a href="#/">How to Play</a></li>
+                                    <li><a href="#/">Tournaments</a></li>
+                                    <li><a href="#/">Registration Bonus</a></li>
+                                    <li><a href="#/">Contact</a></li>
                                 </ul>
                             </div>
                         </div>

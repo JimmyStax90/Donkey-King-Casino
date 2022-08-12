@@ -8,7 +8,7 @@ import 'assets/scss/slick.css';
 import 'assets/scss/style.css';
 import "bootstrap/dist/js/bootstrap.min.js";
 import "bootstrap/dist/css/bootstrap.min.css";
-import 'assets/scss/responsive.css';
+import 'assets/scss/responsive.css'; 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

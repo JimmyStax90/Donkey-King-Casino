@@ -30,7 +30,7 @@ const PaymentMethod =()=> {
                     {/* Payment part end */}
         </div>
     );
-
+ 
 }
 
 export default PaymentMethod;
