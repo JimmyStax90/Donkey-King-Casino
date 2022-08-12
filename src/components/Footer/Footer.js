@@ -26,20 +26,20 @@ const Footer = () =>{
                         <div className="col-md-7">
                             <div className="foot_info_text">
                                 <ul>
-                                    <li><a href="#">Live Score</a></li>
-                                    <li><a href="#">How to Play</a></li>
-                                    <li><a href="#">Tournaments</a></li>
-                                    <li><a href="#">Registration Bonus</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><a href="javascript:void(0);">Live Score</a></li>
+                                    <li><a href="javascript:void(0);">How to Play</a></li>
+                                    <li><a href="javascript:void(0);">Tournaments</a></li>
+                                    <li><a href="javascript:void(0);">Registration Bonus</a></li>
+                                    <li><a href="javascript:void(0);">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div className="col-md-5">
                             <div className="foot_info_text">
                                 <ul>
-                                    <li><a href="https://forms.gle/n4i7V9xXit1N6BzM7" target="_blank">Help Desk</a></li>
-                                    <li><a href="https://docs.donkeykingeg.com/frequently-asked-questions" target="_blank">FAQ</a></li>
-                                    <li><a href="https://docs.donkeykingeg.com/" target="_blank">Support Docs</a></li>
+                                    <li><a href="https://forms.gle/n4i7V9xXit1N6BzM7" target="_blank" rel="noopener noreferrer">Help Desk</a></li>
+                                    <li><a href="https://docs.donkeykingeg.com/frequently-asked-questions" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+                                    <li><a href="https://docs.donkeykingeg.com/" target="_blank" rel="noopener noreferrer">Support Docs</a></li>
                                 </ul>
                             </div>
                         </div>

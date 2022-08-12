@@ -19,7 +19,7 @@ const SimpleSlider = () => {
                         <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_1"/>
                         <div className="game_overly">
                             <h3>Donkey King Slots</h3>
-                            <Link to="#">Play Now</Link>
+                            <a href="javascript:void(0);">Play Now</a>
                         </div>
                     </div>
                
@@ -27,7 +27,7 @@ const SimpleSlider = () => {
                         <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_2"/>
                         <div className="game_overly">
                             <h3>Donkey King Hold 'Em</h3>
-                            <a href="#">Play Now</a>
+                            <a href="javascript:void(0);">Play Now</a>
                         </div>
                     </div>
                
@@ -35,7 +35,7 @@ const SimpleSlider = () => {
                         <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_3"/>
                         <div className="game_overly">
                             <h3>Donkey King Blackjack</h3>
-                            <a href="#">Play Now</a>
+                            <a href="javascript:void(0);">Play Now</a>
                         </div>
                     </div>
               
@@ -43,7 +43,7 @@ const SimpleSlider = () => {
                         <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_2"/>
                         <div className="game_overly">
                             <h3>Donkey King Craps</h3>
-                            <a href="#">Play Now</a>
+                            <a href="javascript:void(0);">Play Now</a>
                         </div>
                     </div>
                 

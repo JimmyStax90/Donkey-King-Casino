@@ -46,8 +46,8 @@ const Login = () => {
                                             <i className="fa fa-lock"></i>
                                         </div>
                                         <button type="submit">Log in</button>
-                                        <a href="#">Forget password</a>
-                                        <p className="log_acc_yet">Don’t you have any account yet? <a href="#">Sign in</a></p>
+                                        <a href="javascript:void(0);">Forget password</a>
+                                        <p className="log_acc_yet">Don’t you have any account yet? <a href="javascript:void(0);">Sign in</a></p>
                                     </div>
                                 </form>
                             </div>

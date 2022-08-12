@@ -37,14 +37,14 @@ const Promotion = () => {
                     <div className="row m-0">
                         <div className="col-lg-2 col-md-3 offset-lg-3 offset-md-2 p-md-0">
                             <div className="prom_banner_left">
-                                <h3></h3>
+                                {/* <h3></h3> */}
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-4 pl-md-0 offset-md-2">
                             <div className="promo_banner_text">
                                 <h1>New Users</h1>
                                 <h2>Unlock Your<span>Free Spin</span></h2>
-                                <a href="#">Claim Free Spin</a>
+                                <a href="javascript:void(0);">Claim Free Spin</a>
                             </div>
                         </div>
                     </div>
@@ -61,33 +61,33 @@ const Promotion = () => {
                                 <div className="pro_offer_inner pro_offer1">
                                     <img src="images/BnG_Slots-NoBG.png" className="img-fluid w-100" alt="promo_shape1"/>
                                     <div className="overly">
-                                        <h4></h4>
+                                        {/* <h4></h4>
                                         <h3></h3>
-                                        <p></p>
+                                        <p></p> */}
                                     </div>
                                 </div>
                                 <div className="pro_offer_inner pro_offer2">
                                     <img src="images/BnG_Slots-NoBG.png" className="img-fluid w-100" alt="promo_shape1"/>
                                     <div className="overly">
-                                        <h4></h4>
+                                        {/* <h4></h4>
                                         <h3></h3>
-                                        <p></p>
+                                        <p></p> */}
                                     </div>
                                 </div>
                                 <div className="pro_offer_inner pro_offer3">
                                     <img src="images/BnG_Slots-NoBG.png" className="img-fluid w-100" alt="promo_shape1"/>
                                     <div className="overly">
-                                        <h4></h4>
+                                        {/* <h4></h4>
                                         <h3></h3>
-                                        <p></p>
+                                        <p></p> */}
                                     </div>
                                 </div>
                                 <div className="pro_offer_inner pro_offer4">
                                     <img src="images/BnG_Slots-NoBG.png" className="img-fluid w-100" alt="promo_shape1"/>
                                     <div className="overly">
-                                        <h4></h4>
+                                        {/* <h4></h4>
                                         <h3></h3>
-                                        <p></p>
+                                        <p></p> */}
                                     </div>
                                 </div>
                             </div>

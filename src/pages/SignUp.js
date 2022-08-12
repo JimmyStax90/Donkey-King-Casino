@@ -58,11 +58,11 @@ const SignUp = () => {
                                             <i className="fa fa-lock"></i>
                                         </div>
                                         <button type="submit">Signup</button>
-                                        <p>Do you have already an account? <a href="#">Sign in</a></p>
+                                        <p>Do you have already an account? <a href="javascript:void(0);">Sign in</a></p>
                                         <h6>
                                             <span>Or Register with</span>
-                                            <a href="#"><i className="fa fa-facebook-f"></i></a>
-                                            <a href="#"><i className="fa fa-google"></i></a>
+                                            <a href="javascript:void(0);"><i className="fa fa-facebook-f"></i></a>
+                                            <a href="javascript:void(0);"><i className="fa fa-google"></i></a>
                                         </h6>
                                     </div>
                                 </form>
