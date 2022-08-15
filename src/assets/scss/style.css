@@ -2265,6 +2265,11 @@ html body .touna_left_inner button:focus {
 html body .touna_head_left .accordion-header button {
     padding: 0 0 20px 0;
 }
+
+/*========================================
+        Promotion Page End 
+========================================*/
+
 .ButtonLink {
     background-color: transparent;
     border: 1px solid transparent;
@@ -2276,8 +2281,37 @@ html body .touna_head_left .accordion-header button {
     text-decoration: underline;
     display: block !important;
   }
+  @media (max-width: 575px) {
+    #banner_part {
+        padding: 0px 0 30px 0 !important;
+    }
+  }
+  @media (min-width: 576px) and (max-width: 767px) {
+    #banner_part {
+        padding: 1px 0 190px 0 !important;
+    }
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+    #banner_part {
+        padding: 0px 0 175px 0 !important;
+    }
+  }
 
 
-/*========================================
-        Promotion Page End 
-========================================*/
+  @media (max-width: 975px) {
+    .banner_img img {
+        position: static;
+        top: 50%;
+        left: -90px;
+        transform: none !important;
+        height: 600px;
+        /* margin-left: 335px; */
+        max-width: 100%;
+        height: auto;
+    }
+  }
+
+  .foot_secu_text {
+    display: flex;
+    justify-content: center;
+}

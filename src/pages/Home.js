@@ -42,12 +42,12 @@ const Home = () => {
             <section id="banner_part">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-5 col-xl-5 col-md-6 pl-md-0 d-none d-md-block">
+                        <div className="col-lg-5 col-xl-5 col-md-12 pl-md-0">
                             <div className="banner_img">
                                 <img src="/images/Welcome to DKC.png" alt="index_banner"/>
                             </div>
                         </div>
-                        <div className="col-lg-5 col-xl-5 col-md-6 col-12 pr-md-0 offset-lg-1 offset-xl-1">
+                        <div className="col-lg-5 col-xl-5 col-md-12 col-12 pr-md-0 offset-lg-1 offset-xl-1 d-none d-lg-block">
                             <div className="banner_text text-center text-md-left">
                                 {/* <h4></h4>
                                 <h1></h1>
