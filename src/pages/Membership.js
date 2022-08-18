@@ -55,10 +55,7 @@ const Membership = () => {
                                 <ul>
                                     <li>Unlimited Play</li>
                                     <li>No Chip Limit</li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
+                                  
                                 </ul>
                                 <a href="#/">Select</a>
                             </div>
