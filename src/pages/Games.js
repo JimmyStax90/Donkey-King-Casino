@@ -1,4 +1,5 @@
 import React from 'react';
+import MetaTags from 'react-meta-tags';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
 import PaymentMethod from 'components/PaymentMethod';
@@ -8,6 +9,12 @@ import FlowCards from 'components/FlowCards';
 const Games = () => {
     return (
         <div>
+            <MetaTags>
+                <title>Games | Donkey King Casino</title>
+                <meta name="description" content="Donkey King Casino" />
+                <meta property="og:title" content="Donkey King Casino" />
+                <meta property="og:image" content="../logo.png" />
+          </MetaTags>
             <Navigation />
             {/* Game banner part Start */}
             <section id="about_banner" className="game_banner">

@@ -1,5 +1,6 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import MetaTags from 'react-meta-tags';
+// import { Link } from 'react-router-dom';
 import Countdown from 'react-countdown';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
@@ -38,25 +39,29 @@ const rendererCountDown = ({ hours, minutes, seconds, completed }) => {
 const Home = () => {
     return (
         <div>
+            <MetaTags>
+                <title>Home | Donkey King Casino</title>
+                <meta name="description" content="Donkey King Casino" />
+                <meta property="og:title" content="Donkey King Casino" />
+                <meta property="og:image" content="../logo.png" />
+          </MetaTags>
             <Navigation/>
             <section id="banner_part">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-5 col-xl-5 col-md-12 pl-md-0">
+                        <div className="col-lg-12 col-xl-12 col-md-12 pl-md-0">
                             <div className="banner_img">
                                 <img src="/images/Welcome to DKC.png" alt="index_banner"/>
                             </div>
                         </div>
-                        <div className="col-lg-5 col-xl-5 col-md-12 col-12 pr-md-0 offset-lg-1 offset-xl-1 d-none d-lg-block">
+                        {/* <div className="col-lg-5 col-xl-5 col-md-12 col-12 pr-md-0 offset-lg-1 offset-xl-1 d-none d-lg-block">
                             <div className="banner_text text-center text-md-left">
-                                {/* <h4></h4>
-                                <h1></h1>
-                                <p></p> */}
+                                
                                 <div className="text-center">
                                     <Link to="#/">Play Now </Link>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>

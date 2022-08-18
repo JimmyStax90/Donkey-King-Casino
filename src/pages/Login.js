@@ -1,4 +1,5 @@
 import React from 'react';
+import MetaTags from 'react-meta-tags';
 import { Link } from 'react-router-dom';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
@@ -8,6 +9,12 @@ import FlowCards from 'components/FlowCards';
 const Login = () => {
     return (
         <div>
+            <MetaTags>
+                <title>Login | Donkey King Casino</title>
+                <meta name="description" content="Donkey King Casino" />
+                <meta property="og:title" content="Donkey King Casino" />
+                <meta property="og:image" content="../logo.png" />
+          </MetaTags>
             <Navigation/>
             {/* Login banner part Start */}
             <section id="about_banner">

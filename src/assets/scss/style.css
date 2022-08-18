@@ -261,7 +261,7 @@ ol {
 
 #banner_part {
     background: #150035;
-    padding: 160px 0 285px 0;
+    padding: 201px 0 400px 0;
     position: relative;
 }
 
@@ -271,6 +271,9 @@ ol {
     left: -90px;
     transform: translateY(-50%);
     height: 600px;
+    left: 0;
+    right: 0;
+    margin: auto;
     /* margin-left: 335px; */
 }
 /* .banner_img img {
@@ -1077,7 +1080,9 @@ p {
 
 .pay_meth a img {
     padding-right: 10px;
-    margin-top: 10px;
+    /* margin-top: -20px; */
+    height: 100%;
+    width: 250px;
 }
 
 
@@ -2284,7 +2289,16 @@ html body .touna_head_left .accordion-header button {
   @media (max-width: 575px) {
     #banner_part {
         padding: 0px 0 30px 0 !important;
+        
     }
+    .pay_meth a img {
+        padding-right: 10px;
+        margin-top: 10px;
+        height: 100% !important;
+        width: 250px !important;
+    }
+   
+    
   }
   @media (min-width: 576px) and (max-width: 767px) {
     #banner_part {
@@ -2314,4 +2328,9 @@ html body .touna_head_left .accordion-header button {
   .foot_secu_text {
     display: flex;
     justify-content: center;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    #banner_part {
+        padding: 190px 0 330px 0 !important;
+    }
 }
