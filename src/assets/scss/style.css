@@ -2303,7 +2303,9 @@ html body .touna_head_left .accordion-header button {
     .navbar .navbar-toggler {
         line-height: 1.6;
     }
-    
+    .pro_banner {
+        padding: 100px 0 50px;
+    }
   }
   @media (min-width: 576px) and (max-width: 767px) {
     #banner_part {
