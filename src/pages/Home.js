@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useLayoutEffect } from 'react';
 import MetaTags from 'react-meta-tags';
 // import { Link } from 'react-router-dom';
 import Countdown from 'react-countdown';
@@ -37,6 +37,9 @@ const rendererCountDown = ({ hours, minutes, seconds, completed }) => {
 
   };
 const Home = () => {
+    useLayoutEffect(() => {
+        window.scrollTo(0, 0)
+    });
     return (
         <div>
             <MetaTags>
@@ -154,7 +157,7 @@ const Home = () => {
                         </div>
                     </div>
                     <div className="row">
-                        <div className="col-md-4 col-sm-6  price_main">
+                        <div className="col-md-4 col-sm-6 pri_page_in price_main">
                             <div className="pricing_inner">
                                 <div className="pricing_inner_head">
                                     <h2>Featured</h2>
