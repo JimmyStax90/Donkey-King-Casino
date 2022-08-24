@@ -2297,7 +2297,12 @@ html body .touna_head_left .accordion-header button {
         height: 100% !important;
         width: 250px !important;
     }
-   
+    #promotion_banner {
+        padding: 50px 0 20px!important;
+    }
+    .navbar .navbar-toggler {
+        line-height: 1.6;
+    }
     
   }
   @media (min-width: 576px) and (max-width: 767px) {
