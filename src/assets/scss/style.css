@@ -2306,6 +2306,18 @@ html body .touna_head_left .accordion-header button {
     .pro_banner {
         padding: 100px 0 50px;
     }
+    .new_user_banner.pro_banner {
+        padding: 130px 0 50px;
+    }
+    .contact-mobile-view {
+        padding-top: 60px;
+    }
+    .cont_address .address_text {
+        min-width: 60%;
+    }
+    .cont_address .address_text p {
+        word-break: break-all;
+    }
   }
   @media (min-width: 576px) and (max-width: 767px) {
     #banner_part {

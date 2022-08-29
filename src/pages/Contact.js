@@ -44,7 +44,7 @@ const Contact = () => {
                 <div className="container">
                     <FlowCards />
                 </div>
-                <div className="container p-md-0 mt-5">
+                <div className="container p-md-0 mt-5 contact-mobile-view">
                     <div className="row cont_mar">
                         <div className="col-md-4 col-12">
                             <div className="cont_address">
