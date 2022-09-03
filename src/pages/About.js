@@ -42,7 +42,7 @@ const About = () => {
                     <div className="row abou_clie">
                         <div className="col-md-5 pl-md-0">
                             <div className="claim_img">
-                                <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="claim_part"/>
+                                <img src="images/DKEG Logo No BG" className="img-fluid w-100" alt="claim_part"/>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-7 pr-md-0 offset-lg-1">
