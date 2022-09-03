@@ -20,7 +20,7 @@ const PaymentMethod =()=> {
                 <div className="col-lg-5 col-md-6 col-12 pr-md-0 offset-lg-1">
                     <div className="pay_meth">
                         <h3>Payment Method</h3>
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.donkswap.com/#/swap"><img src="images/Black and Gold Casino Chip (1) (1).png" alt="paycard1"/></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.donkswap.com/#/swap"><img src="images/DK Chip No BG.png" alt="paycard1"/></a>
                     </div>
                 </div>
             </div>
