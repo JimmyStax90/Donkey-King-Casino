@@ -83,7 +83,7 @@ const Home = () => {
                     <div className="row">
                         <div className="col-sm-6 col-md-4">
                             <div className="game_img">
-                                <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_1"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_1"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Slots</h3>
                                     <a href="#/">Play Now</a>
@@ -92,7 +92,7 @@ const Home = () => {
                         </div>
                         <div className="col-sm-6 col-md-4">
                             <div className="game_img">
-                                <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_2"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_2"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Hold 'EM</h3>
                                     <a href="#/">Play Now</a>
@@ -101,7 +101,7 @@ const Home = () => {
                         </div>
                         <div className="col-sm-6 col-md-4">
                             <div className="game_img">
-                                <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_3"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Blackjack</h3>
                                     <a href="#/">Play Now</a>
@@ -110,7 +110,7 @@ const Home = () => {
                         </div>
                         <div className="d-md-none col-sm-6 col-md-4">
                             <div className="game_img">
-                                <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_3"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Horse Racing</h3>
                                     <a href="#/">Play Now</a>
