@@ -16,7 +16,7 @@ const SimpleSlider = () => {
     <Slider {...settings}>
                 
                     <div className="game_img">
-                        <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_1"/>
+                        <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_1"/>
                         <div className="game_overly">
                             <h3>Donkey King Slots</h3>
                             <a href="#/">Play Now</a>
@@ -24,7 +24,7 @@ const SimpleSlider = () => {
                     </div>
                
                     <div className="game_img">
-                        <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_2"/>
+                        <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_2"/>
                         <div className="game_overly">
                             <h3>Donkey King Hold 'Em</h3>
                             <a href="#/">Play Now</a>
@@ -32,7 +32,7 @@ const SimpleSlider = () => {
                     </div>
                
                     <div className="game_img">
-                        <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_3"/>
+                        <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                         <div className="game_overly">
                             <h3>Donkey King Blackjack</h3>
                             <a href="#/">Play Now</a>
@@ -40,7 +40,7 @@ const SimpleSlider = () => {
                     </div>
               
                     <div className="game_img">
-                        <img src="images/DKEG Logo.jpg" className="img-fluid w-100" alt="about_2"/>
+                        <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_2"/>
                         <div className="game_overly">
                             <h3>Donkey King Craps</h3>
                             <a href="#/">Play Now</a> 
