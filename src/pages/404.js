@@ -22,7 +22,7 @@ const Erorr = () => {
                     <div className="row">
                         <div className="col-lg-12 text-center">
                             <div className="error_page_main">
-                                <img src="images/DKEG Logo.jpg" className="img-fluid" alt="08_404_Page"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid" alt="08_404_Page"/>
                                 <div className="error_btn">
                                     <Link to="/">Go Back to Home</Link>
                                 </div>
