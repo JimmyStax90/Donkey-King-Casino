@@ -127,7 +127,7 @@ const Home = () => {
                     <div className="row">
                         <div className="col-sm-5 col-12 col-md-5 pl-md-0">
                             <div className="claim_img">
-                                <img src="images/Free Spin - 538x622.jpeg" className="img-fluid" alt="claim_part"/>
+                                <img src="images/DKEG Free Spin.png" className="img-fluid" alt="claim_part"/>
                             </div>
                         </div>
                         <div className="col-sm-6 col-12 col-md-7 col-lg-6 pr-md-0 offset-lg-1">
