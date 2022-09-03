@@ -38,7 +38,7 @@ const Navigation =() => {
                         <NavLink className={"underline nav-link" + (url === "/promotion" ?" active" : "")} to="/promotion">Promotion</NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink className={"underline nav-link" + (url === "/membership" ?" active" : "")} to="/membership">MemberShip</NavLink>
+                        <NavLink className={"underline nav-link" + (url === "/membership" ?" active" : "")} to="/membership">Membership</NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink className={"underline nav-link" + (url === "/contact" ?" active" : "")} to="/contact">Contact</NavLink>
