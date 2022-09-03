@@ -43,7 +43,7 @@ const Games = () => {
                     <div className="row main_game">
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img2 game_margin game_margin2">
-                                <img src="images/Hold Em BnG.jpg" className="img-fluid w-100" alt="about_1"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_1"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Hold Em</h3>
                                     <a href="#/">Play Now</a>
@@ -52,7 +52,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img2 game_margin game_margin2">
-                                <img src="images/BlackJack_BnG on B (1).png" className="img-fluid w-100" alt="about_2"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_2"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Blackjack</h3>
                                     <a href="#/">Play Now</a>
@@ -61,7 +61,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img2 game_margin2">
-                                <img src="images/BnG Slots.jpeg" className="img-fluid w-100" alt="about_3"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Slots</h3>
                                     <a href="#/">Play Now</a>
@@ -70,7 +70,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img_pad">
-                                <img src="images/RouletteBnG on B.png" className="img-fluid w-100" alt="03_Games4"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="03_Games4"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Roulette</h3>
                                     <a href="#/">Play Now</a>
@@ -79,7 +79,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img_pad">
-                                <img src="images/Dice - BnG on B.png" className="img-fluid w-100" alt="03_Games5"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="03_Games5"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Craps</h3>
                                     <a href="#/">Play Now</a>
@@ -88,7 +88,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img_pad">
-                                <img src="images/Horse Race 1.png" className="img-fluid w-100" alt="03_Games6"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="03_Games6"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Horse Racing</h3>
                                     <a href="#/">Play Now</a>
@@ -97,7 +97,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img_pad">
-                                <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="03_Games7"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="03_Games7"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Keno</h3>
                                     <a href="#/">Play Now</a>
@@ -106,7 +106,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img_pad">
-                                <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="03_Games8"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="03_Games8"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Fruit Slots</h3>
                                     <a href="#/">Play Now</a>
@@ -115,7 +115,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="game_img game_img_pad">
-                                <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="03_Games9"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="03_Games9"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Omaha</h3>
                                     <a href="#/">Play Now</a>
@@ -124,7 +124,7 @@ const Games = () => {
                         </div>
                         <div className="col-md-4 col-sm-6 d-none d-sm-block d-md-none">
                             <div className="game_img">
-                                <img src="images/Black and Gold Chips Donk.jpg" className="img-fluid w-100" alt="about_3"/>
+                                <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Lucky Wheel</h3>
                                     <a href="#/">Play Now</a>
