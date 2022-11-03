@@ -94,7 +94,7 @@ const Home = () => {
                             <div className="game_img">
                                 <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_2"/>
                                 <div className="game_overly">
-                                    <h3>Donkey King Slots 'EM</h3>
+                                    <h3>Donkey King Slots</h3>
                                     <a href="#/">Play Now</a>
                                 </div>
                             </div>
