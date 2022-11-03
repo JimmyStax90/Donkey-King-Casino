@@ -85,7 +85,7 @@ const Home = () => {
                             <div className="game_img">
                                 <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_1"/>
                                 <div className="game_overly">
-                                    <h3>Donkey King Slots</h3>
+                                    <h3>Donkey King Horse Racing</h3>
                                     <a href="#/">Play Now</a>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@ const Home = () => {
                             <div className="game_img">
                                 <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_2"/>
                                 <div className="game_overly">
-                                    <h3>Donkey King Hold 'EM</h3>
+                                    <h3>Donkey King Slots 'EM</h3>
                                     <a href="#/">Play Now</a>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@ const Home = () => {
                             <div className="game_img">
                                 <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
-                                    <h3>Donkey King Blackjack</h3>
+                                    <h3>Donkey King Keno</h3>
                                     <a href="#/">Play Now</a>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@ const Home = () => {
                             <div className="game_img">
                                 <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
-                                    <h3>Donkey King Horse Racing</h3>
+                                    <h3>Donkey King Hold Em</h3>
                                     <a href="#/">Play Now</a>
                                 </div>
                             </div>
