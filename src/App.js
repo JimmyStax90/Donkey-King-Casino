@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Games from './pages/Games';
-import Promotion from './pages/Promotation';
+import Promotion from './pages/Promotion';
 import Membership from './pages/Membership';
 import Erorr from './pages/404';
 function App() {
