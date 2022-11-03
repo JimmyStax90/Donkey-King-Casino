@@ -313,7 +313,7 @@ const Home = () => {
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>01. Rozina Khan</h5>
+                                            <h5>01. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -321,14 +321,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>02. Gozina Hezzez</h5>
+                                            <h5>02. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -336,14 +336,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>03. Redwan Rizaj</h5>
+                                            <h5>03. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -351,14 +351,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>04. Redwan Rizaj</h5>
+                                            <h5>04. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -366,14 +366,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>05. Omer Rinki</h5>
+                                            <h5>05. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -381,14 +381,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>06. Aaron Jack</h5>
+                                            <h5>06. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -396,14 +396,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>07. Jarvis Malcolm</h5>
+                                            <h5>07. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -411,14 +411,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>08. Redwan Rizaj</h5>
+                                            <h5>08. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -426,14 +426,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>09. Redwan Rizaj</h5>
+                                            <h5>09. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -441,14 +441,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>10. Omer Rinki</h5>
+                                            <h5>10. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -456,14 +456,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>11. Rozina Khan</h5>
+                                            <h5>11. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -471,14 +471,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>12. Gozina Hezzez</h5>
+                                            <h5>12. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -486,14 +486,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>13. Redwan Rizaj</h5>
+                                            <h5>13. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -501,14 +501,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>14. Redwan Rizaj</h5>
+                                            <h5>14. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -516,14 +516,14 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="row scl_pad">
                                     <div className="col-lg-5 col-5">
                                         <div className="toun_scroll_name tun_border">
-                                            <h5>15. Omer Rinki</h5>
+                                            <h5>15. N/A</h5>
                                         </div>
                                     </div>
                                     <div className="col-lg-2 col-2 text-center">
@@ -531,7 +531,7 @@ const Home = () => {
                                     </div>
                                     <div className="col-lg-5 col-5 text-right">
                                         <div className="toun_scroll_name tun_border">
-                                            <p>$365.25</p>
+                                            <p>$0</p>
                                         </div>
                                     </div>
                                 </div>
