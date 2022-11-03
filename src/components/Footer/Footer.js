@@ -26,11 +26,11 @@ const Footer = () =>{
                         <div className="col-md-7">
                             <div className="foot_info_text">
                                 <ul>
-                                    <li><a href="#/">Live Score</a></li>
+                                    <li><a href="https://www.donkeykingeg.com/404/">Live Score</a></li>
                                     <li><a href="https://docs.donkeykingeg.com/how-to-play/">How to Play</a></li>
-                                    <li><a href="#/">Tournaments</a></li>
-                                    <li><a href="#/">Registration Bonus</a></li>
-                                    <li><a href="marketing@donkswap.com/">Contact</a></li>
+                                    <li><a href="https://www.donkeykingeg.com/404/">Tournaments</a></li>
+                                    <li><a href="https://www.donkeykingeg.com/404/">Registration Bonus</a></li>
+                                    <li><a href="https://www.donkeykingeg.com/404/">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
