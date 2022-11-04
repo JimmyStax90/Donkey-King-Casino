@@ -6,6 +6,7 @@ function iframe() {
 
 
 function Keno() {
+	console.log("this haps");
 	document.body.style.backgroundColor = "rgb(44, 31, 56)";
     return (
         <div>
