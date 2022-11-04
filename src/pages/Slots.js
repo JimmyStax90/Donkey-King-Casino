@@ -11,7 +11,7 @@ function Slots() {
   document.body.style.backgroundColor = "rgb(44, 31, 56)";
 	return (
 		<div>
-			<Unity unityProvider={unityProvider} style={{ width: 800, height: 600 }} />
+			<Unity unityProvider={unityProvider} style={{ width: window.innerWidth, height: window.innerHeight }} />
 		</div>
 	);
 }
