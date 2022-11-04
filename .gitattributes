@@ -1,1 +1,1 @@
-*.data filter=lfs diff=lfs merge=lfs -text
+build.data filter=lfs diff=lfs merge=lfs -text
