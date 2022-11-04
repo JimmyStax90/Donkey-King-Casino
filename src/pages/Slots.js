@@ -1,7 +1,3 @@
-import React from "react";
-import { Unity, useUnityContext } from 'react-unity-webgl';
-
-
 
 function Slots() {
 	
