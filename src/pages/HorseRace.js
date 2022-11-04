@@ -5,10 +5,10 @@ import { Unity, useUnityContext } from 'react-unity-webgl';
 
 function HorseRace() {
 	const { unityProvider } = useUnityContext({
-    loaderUrl: "unityFiles/Build.loader.js",
-    dataUrl: "unityFiles/Build.data",
-    frameworkUrl: "unityFiles/Build.framework.js",
-    codeUrl: "unityFiles/Build.wasm",
+    loaderUrl: "unityFiles/build.loader.js",
+    dataUrl: "unityFiles/build.data",
+    frameworkUrl: "unityFiles/build.framework.js",
+    codeUrl: "unityFiles/build.wasm",
   });
   document.body.style.backgroundColor = "rgb(44, 31, 56)";
 	return (

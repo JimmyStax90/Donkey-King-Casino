@@ -3,7 +3,7 @@ import { Unity, useUnityContext } from 'react-unity-webgl';
 
 
 
-function Slots() {
+const Slots = () => {
 	console.log("Rip");
 	const { unityProvider } = useUnityContext({
     loaderUrl: "unityFiles/SlotsGZ.loader.js",

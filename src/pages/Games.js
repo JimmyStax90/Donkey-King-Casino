@@ -8,6 +8,9 @@ import FlowCards from 'components/FlowCards';
 
 const Games = () => {
     return (
+		<script>
+			console.log(5 + 6);
+		</script>
         <div>
             <MetaTags>
                 <title>Games | Donkey King Casino</title>
