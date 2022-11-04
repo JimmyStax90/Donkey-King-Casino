@@ -1,22 +1,17 @@
-import React from "react";
-import { Unity, useUnityContext } from 'react-unity-webgl';
+function iframe() {
+    return {
+        __html: '<iframe src="keno/index.html" width="540" height="450"></iframe>'
+    }
+}
 
 
-
-const Slots = () => {
-	console.log("Rip");
-	const { unityProvider } = useUnityContext({
-    loaderUrl: "unityFiles/SlotsGZ.loader.js",
-    dataUrl: "unityFiles/SlotsGZ.data",
-    frameworkUrl: "unityFiles/SlotsGZ.framework.js",
-    codeUrl: "unityFiles/SlotsGZ.wasm",
-  });
-  document.body.style.backgroundColor = "rgb(44, 31, 56)";
-	return (
-		<div>
-			<Unity unityProvider={unityProvider} style={{ width: 800, height: 600 }} />
-		</div>
-	);
+function Slots() {
+	console.log("this haps");
+	document.body.style.backgroundColor = "rgb(44, 31, 56)";
+    return (
+        <div>
+            <div dangerouslySetInnerHTML={iframe()} />
+        </div>)
 }
 
 export default Slots;
