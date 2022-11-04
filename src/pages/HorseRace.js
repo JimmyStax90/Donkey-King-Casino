@@ -1,8 +1,6 @@
 import React from "react";
 import { Unity, useUnityContext } from 'react-unity-webgl';
 
-
-
 function HorseRace() {
 	const { unityProvider } = useUnityContext({
     loaderUrl: "unityFiles/build.loader.js",
@@ -12,7 +10,9 @@ function HorseRace() {
   });
   document.body.style.backgroundColor = "rgb(44, 31, 56)";
 	return (
-		<Unity unityProvider={unityProvider} style={{ width: 800, height: 600 }} />
+		<div>
+			<Unity unityProvider={unityProvider} style={{ width: 800, height: 600 }} />
+		</div>
 	);
 }
 
