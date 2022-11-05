@@ -16,7 +16,7 @@ const Navigation =() => {
     <nav className="navbar navbar-expand-md menu_head">
         <div className="container p-md-0">
             <Link className="navbar-brand"  as={Link} to="/">
-                <img src="/images/DKEG 2.png" alt="menu_logo" />
+                <img src="/images/DKEG 3.jpg" alt="menu_logo" />
             </Link>
             {/* <a className="navbar-brand" href="index.html"><img src="images/DKEG 2.png" alt="menu_logo" className="img-fluid"/></a> */}
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
