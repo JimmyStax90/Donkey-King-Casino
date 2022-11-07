@@ -61,7 +61,7 @@ const Footer = () =>{
                                 <img src="images/foot_icon2.png" alt="foot_icon2"/>
                             </div>
                             <div className="">
-                                <p>Total 203 Million <span>Registered Users</span></p>
+                                <p> N/A <span>Registered Users</span></p>
                             </div>
                         </div>
                     </div>
