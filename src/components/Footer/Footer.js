@@ -50,7 +50,7 @@ const Footer = () =>{
                         <h3>Security Info</h3>
                         <div className="foot_secu_text">
                             <div className="">
-                                <img src="images/foot_icon1.png" alt="foot_icon1"/>
+                                <img src="images/BSC Logo - No BG.png" alt="foot_icon1"/>
                             </div>
                             <div className="">
                                 <p>Safe &amp; Secure <span>Crypto Gaming</span></p>
