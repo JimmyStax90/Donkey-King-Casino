@@ -53,7 +53,7 @@ const Footer = () =>{
                                 <img src="images/foot_icon1.png" alt="foot_icon1"/>
                             </div>
                             <div className="">
-                                <p>Safe &amp; Secure <span>Banking</span></p>
+                                <p>Safe &amp; Secure <span>Crypto Gaming</span></p>
                             </div>
                         </div>
                         <div className="foot_secu_text">
