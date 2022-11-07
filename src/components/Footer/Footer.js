@@ -58,7 +58,7 @@ const Footer = () =>{
                         </div>
                         <div className="foot_secu_text">
                             <div className="">
-                                <img src="images/foot_icon2.png" alt="foot_icon2"/>
+                                <img src="images/User Icon No BG.png" alt="foot_icon2"/>
                             </div>
                             <div className="">
                                 <p> N/A <span>Registered Users</span></p>
