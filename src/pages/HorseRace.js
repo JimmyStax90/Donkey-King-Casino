@@ -1,17 +1,26 @@
 import React from "react";
 import { Unity, useUnityContext } from 'react-unity-webgl';
+import Navigation from './navbar/Navigation';
+import MetaTags from 'react-meta-tags';
 
 function HorseRace() {
-	const { unityProvider } = useUnityContext({
-    loaderUrl: "unityFiles/Build.loader.js",
-    dataUrl: "unityFiles/Build.data",
-    frameworkUrl: "unityFiles/Build.framework.js",
-    codeUrl: "unityFiles/Build.wasm",
+	const { unityProvider, unload } = useUnityContext({
+    loaderUrl: "unityFiles/build.loader.js",
+    dataUrl: "unityFiles/build.data",
+    frameworkUrl: "unityFiles/build.framework.js",
+    codeUrl: "unityFiles/build.wasm",
   });
-  document.body.style.backgroundColor = "rgb(44, 31, 56)";
+  async function handleClickBack() {
+    await unload();
+	window.history.go(-1);
+    // Ready to navigate to another page.
+  }
+  document.body.style.backgroundColor = "rgb(62, 3, 158)";
 	return (
+		
 		<div>
-			<Unity unityProvider={unityProvider} style={{ width: window.innerWidth, height: window.innerHeight }} />
+			<div><button onClick={handleClickBack}>Back</button></div>
+			<Unity unityProvider={unityProvider} style={{ width: 800, height: 600 }} />
 		</div>
 	);
 }
