@@ -23,8 +23,6 @@ const Navigation =() => {
                 <i className="fa fa-bars"></i>
             </button>
             <div className="collapse navbar-collapse main_menu" id="navbarNav">
-                <ul className="navbar-nav m-auto">
-					<button className={"underline nav-link" + (url === "/" ?" active" : "")} onClick='handleClickBack("/")'>Home</button>
                     /*<li className="nav-item">
                         //{ <NavLink className="nav-link " eventKey="1" as={Link} to="/">Home</NavLink> }
                         <NavLink to="/"  className={"underline nav-link" + (url === "/" ?" active" : "")}>Home</NavLink>
