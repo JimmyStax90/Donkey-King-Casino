@@ -10,7 +10,7 @@ const Promotion = () => {
     return (
         <div>
              <MetaTags>
-                <title>Permotion | Donkey King Casino</title>
+                <title>Promotion | Donkey King Casino</title>
                 <meta name="description" content="Donkey King Casino" />
                 <meta property="og:title" content="Donkey King Casino" />
                 <meta property="og:image" content="../logo.png" />
