@@ -1,7 +1,5 @@
 import React from "react";
 import { Unity, useUnityContext } from 'react-unity-webgl';
-import Navigation from './navbar/Navigation';
-import MetaTags from 'react-meta-tags';
 
 function Keno() {
 	const { unityProvider, unload } = useUnityContext({
