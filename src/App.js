@@ -7,7 +7,6 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Games from './pages/Games';
 import Slots from './pages/Slots';
-import Keno from './pages/Keno';
 import KenoTwo from './pages/KenoTwo';
 import HorseRace from './pages/HorseRace';
 import Promotion from './pages/Promotion';

@@ -1,11 +1,7 @@
 import React from "react";
 import { Unity, useUnityContext } from 'react-unity-webgl';
-import Navigation from './navbar/NavigationGame';
-import MetaTags from 'react-meta-tags';
-import { useNavigate } from 'react-router-dom';
 
 function Slots() {
-	const navigate = useNavigate();
 	const { unityProvider, unload } = useUnityContext({
     loaderUrl: "unityFiles/SlotsGZ.loader.js",
     dataUrl: "unityFiles/SlotsGZ.data",
