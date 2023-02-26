@@ -8,6 +8,7 @@ import Contact from './pages/Contact';
 import Games from './pages/Games';
 import Slots from './pages/Slots';
 import KenoTwo from './pages/KenoTwo';
+import Holdem from './pages/Holdem';
 import HorseRace from './pages/HorseRace';
 import Promotion from './pages/Promotion';
 import Membership from './pages/Membership';
@@ -24,6 +25,7 @@ function App() {
        <Route path="/games" element={<>{<Games />} </>} />
 	   <Route path="/slots" element={<>{<Slots />} </>} />
 	   <Route path="/kenoGame" element={<>{<KenoTwo />} </>} />
+	   <Route path="/holdem" element={<>{<Holdem />} </>} />
 	   <Route path="/horseRace" element={<>{<HorseRace />} </>} />
        <Route path="/promotion" element={<>{<Promotion />} </>} />
        <Route path="/membership" element={<>{<Membership />} </>} />
