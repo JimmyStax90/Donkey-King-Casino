@@ -94,7 +94,7 @@ const Games = () => {
                                 <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="03_Games6"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Hold Em</h3>
-                                    <a href="#/">Play Now</a>
+                                    <a href="/holdem">Play Now</a>
                                 </div>
                             </div>
                         </div>
