@@ -3,10 +3,10 @@ import { Unity, useUnityContext } from 'react-unity-webgl';
 
 function HorseRace() {
 	const { unityProvider, unload } = useUnityContext({
-    loaderUrl: "unityFiles/build.loader.js",
-    dataUrl: "unityFiles/build.data",
-    frameworkUrl: "unityFiles/build.framework.js",
-    codeUrl: "unityFiles/build.wasm",
+    loaderUrl: "unityFiles/Horse Race/Horse Latest New.loader.js",
+    dataUrl: "unityFiles/Horse Race/Horse Latest New.data",
+    frameworkUrl: "unityFiles/Horse Race/Horse Latest New.framework.js",
+    codeUrl: "unityFiles/Horse Race/Horse Latest New.wasm",
   });
   async function handleClickBack() {
     await unload();

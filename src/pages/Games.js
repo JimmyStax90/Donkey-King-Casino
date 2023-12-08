@@ -1,5 +1,5 @@
 import React from 'react';
-import MetaTags from 'react-meta-tags';
+//import MetaTags from 'react-meta-tags';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
 import PaymentMethod from 'components/PaymentMethod';
@@ -12,12 +12,12 @@ const Games = () => {
 			<script>
 				console.log(5 + 6);
 			</script>
-            <MetaTags>
+            {/* <MetaTags>
                 <title>Games | Donkey King Casino</title>
                 <meta name="description" content="Donkey King Casino" />
                 <meta property="og:title" content="Donkey King Casino" />
                 <meta property="og:image" content="../logo.png" />
-          </MetaTags>
+          </MetaTags> */}
             <Navigation />
             {/* Game banner part Start */}
             <section id="about_banner" className="game_banner">
@@ -67,7 +67,7 @@ const Games = () => {
                                 <img src="images/DKEG Logo No BG.png" className="img-fluid w-100" alt="about_3"/>
                                 <div className="game_overly">
                                     <h3>Donkey King Keno</h3>
-                                    <a href="/keno">Play Now</a>
+                                    <a href="/kenoGame">Play Now</a>
                                 </div>
                             </div>
                         </div>

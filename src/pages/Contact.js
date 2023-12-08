@@ -1,5 +1,5 @@
 import React from 'react';
-import MetaTags from 'react-meta-tags';
+//import MetaTags from 'react-meta-tags';
 import { Link  } from 'react-router-dom';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
@@ -15,12 +15,12 @@ const Contact = () => {
     // }, [location]);
     return (
         <div>
-            <MetaTags>
+            {/* <MetaTags>
                 <title>Contact Us | Donkey King Casino</title>
                 <meta name="description" content="Donkey King Casino" />
                 <meta property="og:title" content="Donkey King Casino" />
                 <meta property="og:image" content="../logo.png" />
-          </MetaTags>
+          </MetaTags> */}
             <Navigation />
             {/* Contact banner part Start */}
             <section id="about_banner" className="contact_banner">

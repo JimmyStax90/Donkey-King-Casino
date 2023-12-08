@@ -3,10 +3,10 @@ import { Unity, useUnityContext } from 'react-unity-webgl';
 
 function Holdem() {
 	const { unityProvider, unload } = useUnityContext({
-    loaderUrl: "unityFiles/Holdem.loader.js",
-    dataUrl: "unityFiles/Holdem.data",
-    frameworkUrl: "unityFiles/Holdem.framework.js",
-    codeUrl: "unityFiles/Holdem.wasm",
+    loaderUrl: "unityFiles/Holdem/Build.loader.js",
+    dataUrl: "unityFiles/Holdem/Build.data",
+    frameworkUrl: "unityFiles/Holdem/Build.framework.js",
+    codeUrl: "unityFiles/Holdem/Build.wasm",
   });
   async function handleClickBack() {
     await unload();

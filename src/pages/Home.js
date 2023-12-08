@@ -1,5 +1,5 @@
 import React, { useLayoutEffect } from 'react';
-import MetaTags from 'react-meta-tags';
+//import MetaTags from 'react-meta-tags';
 // import { Link } from 'react-router-dom';
 import Countdown from 'react-countdown';
 import Navigation from './navbar/Navigation';
@@ -42,12 +42,12 @@ const Home = () => {
     });
     return (
         <div>
-            <MetaTags>
+            {/* <MetaTags>
                 <title>Home | Donkey King Casino</title>
                 <meta name="description" content="Donkey King Casino" />
                 <meta property="og:title" content="Donkey King Casino" />
                 <meta property="og:image" content="../logo.png" />
-          </MetaTags>
+          </MetaTags> */}
             <Navigation/>
             <section id="banner_part">
                 <div className="container">

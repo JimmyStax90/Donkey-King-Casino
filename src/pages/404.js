@@ -1,5 +1,5 @@
 import React from 'react';
-import MetaTags from 'react-meta-tags';
+//import MetaTags from 'react-meta-tags';
 import { Link } from 'react-router-dom';
 import Navigation from './navbar/Navigation';
 import Footer from 'components/Footer/Footer';
@@ -9,12 +9,12 @@ import PaymentMethod from 'components/PaymentMethod';
 const Erorr = () => {
     return (
         <div>
-            <MetaTags>
+            {/* <MetaTags>
                 <title>404 | Donkey King Casino</title>
                 <meta name="description" content="Donkey King Casino" />
                 <meta property="og:title" content="Donkey King Casino" />
                 <meta property="og:image" content="../logo.png" />
-          </MetaTags>
+          </MetaTags> */}
             <Navigation/>
             {/* Error 404 part start */}
             <section id="claim_part" className="client_bg client_bg2">

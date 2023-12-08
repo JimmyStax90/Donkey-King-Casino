@@ -3,10 +3,10 @@ import { Unity, useUnityContext } from 'react-unity-webgl';
 
 function KenoTwo() {
 	const { unityProvider, unload } = useUnityContext({
-    loaderUrl: "unityFiles/WebBuild.loader.js",
-    dataUrl: "unityFiles/WebBuild.data",
-    frameworkUrl: "unityFiles/WebBuild.framework.js",
-    codeUrl: "unityFiles/WebBuild.wasm",
+    loaderUrl: "unityFiles/Keno/Keno Letest.loader.js",
+    dataUrl: "unityFiles/Keno/Keno Letest.data",
+    frameworkUrl: "unityFiles/Keno/Keno Letest.framework.js",
+    codeUrl: "unityFiles/Keno/Keno Letest.wasm",
   });
   async function handleClickBack() {
     await unload();

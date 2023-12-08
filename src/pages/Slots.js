@@ -3,10 +3,10 @@ import { Unity, useUnityContext } from 'react-unity-webgl';
 
 function Slots() {
 	const { unityProvider, unload } = useUnityContext({
-    loaderUrl: "unityFiles/SlotsGZ.loader.js",
-    dataUrl: "unityFiles/SlotsGZ.data",
-    frameworkUrl: "unityFiles/SlotsGZ.framework.js",
-    codeUrl: "unityFiles/SlotsGZ.wasm",
+    loaderUrl: "unityFiles/Slots/SlotsGZ.loader.js",
+    dataUrl: "unityFiles/Slots/SlotsGZ.data",
+    frameworkUrl: "unityFiles/Slots/SlotsGZ.framework.js",
+    codeUrl: "unityFiles/Slots/SlotsGZ.wasm",
   });
   async function handleClickBack() {
     await unload();
